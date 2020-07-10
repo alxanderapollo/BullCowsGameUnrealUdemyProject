@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BullCowGameEditor",
+			"Path": "/Users/alexanderapollosalazar/Documents/Unreal Projects/BullCowGame-starter-kit/Source/BullCowGameEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "BullCowGame",
+			"Path": "/Users/alexanderapollosalazar/Documents/Unreal Projects/BullCowGame-starter-kit/Source/BullCowGame.Target.cs",
+			"Type": "Game"
+		}
+	]
+}
